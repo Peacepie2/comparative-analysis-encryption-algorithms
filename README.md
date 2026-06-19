@@ -1,4 +1,4 @@
-# text-file-security-benchmark
+# Comparative-Analysis-Encryption-Algorithms
 Comparative Analysis of Some Encryption and Decryption Algorithms for Text File Security
 
 ## Author
